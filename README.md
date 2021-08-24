@@ -1,5 +1,5 @@
 # udacity-project1
----
+
 Data Science project on the Boston AirBNB Dataset. We focus on answering 3 business questions:
 
 1. What was the housestay that earned the most? Is it in the most expensive street? 
@@ -8,17 +8,17 @@ Data Science project on the Boston AirBNB Dataset. We focus on answering 3 busin
 
 We answer these questions by using statistical analysis and machine learning techniques.
 
-# Libraries
 ---
+# Libraries
 * matplotlib                3.4.2
 * numpy                     1.20.3
 * scikit-learn              0.24.2
 * seaborn                   0.11.1
 
-# Files
 ---
+# Files
 The `.csv` and the `archive.zip` files contain AirBNB Boston data and are available [here](https://www.kaggle.com/airbnb/boston).
 
-# Conclusion
 ---
+# Conclusion
 The analysis conclusion was posted on [Medium](http).
