@@ -1,9 +1,9 @@
 # udacity-project1
 
-Data Science project on the Boston AirBNB Dataset. We focus on answering 3 business questions:
+Data Science project on the Boston AirBnb Dataset. We focus on answering 3 business questions:
 
 1. What was the housestay that earned the most? Is it in the most expensive street? 
-2. What are the busiest times of the year to visit Seattle? By how much do prices spike?
+2. What are the busiest times of the year to visit Boston? By how much do prices spike?
 3. Is it possible to predict the prices using the other informations?
 
 We answer these questions by using statistical analysis and machine learning techniques.
@@ -23,4 +23,4 @@ The `nb1.ipynb` file is the jupyter notebook with all the project's code.
 
 ---
 # Conclusion
-The analysis conclusion was posted on [Medium](http).
+The analysis conclusion was posted on [Medium](https://medium.com/@lucasbaiao/insights-on-the-boston-homestays-market-6d58c8093242).
