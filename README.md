@@ -19,6 +19,8 @@ We answer these questions by using statistical analysis and machine learning tec
 # Files
 The `.csv` and the `archive.zip` files contain AirBNB Boston data and are available [here](https://www.kaggle.com/airbnb/boston).
 
+The `nb1.ipynb` file is the jupyter notebook with all the project's code.
+
 ---
 # Conclusion
 The analysis conclusion was posted on [Medium](http).
