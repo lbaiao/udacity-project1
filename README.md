@@ -6,7 +6,7 @@ This is a Data Science project for the Udacity's Data Scientist Nanodegree. In t
 2. What are the busiest times of the year to visit Boston? By how much do prices spike?
 3. Is it possible to predict the prices using the other informations?
 
-The dataset covers the AirBnb listings from from September/2016 till September/2017, and is available [here](https://www.kaggle.com/airbnb/boston).
+The dataset covers the AirBnb listings from September/2016 till September/2017, and is available [here](https://www.kaggle.com/airbnb/boston).
 
 We answer these questions by using statistical analysis and machine learning techniques, following the CRISP-DM methodology. Enjoy the insights!
 
