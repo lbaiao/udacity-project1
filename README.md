@@ -1,6 +1,6 @@
 # udacity-project1
 
-This is a Data Science project for the Udacity's Data Scientist Nanodegree. In this project, we dive in the Boston AirBnb Dataset, in order to answer 3 business questions:
+This is a Data Science project for the Udacity's Data Scientist Nanodegree. In this project, we dive into the Boston AirBnb Dataset, in order to answer 3 business questions:
 
 1. What was the housestay that earned the most? Is it in the most expensive street? 
 2. What are the busiest times of the year to visit Boston? By how much do prices spike?
